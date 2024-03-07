@@ -9,7 +9,7 @@ The code creates a Python GUI application using Tkinter, allowing users to input
 - [Imports](#Imports)
 - [Rating: 6/10](#Rating)
 
-## About
+# About
 
 The code creates a Python GUI application using Tkinter, allowing users to input text and receive responses randomly generated, showcasing an interactive storytelling experience through a simple GUI interface.
 
@@ -21,7 +21,7 @@ Example applications include a temperature converter and a text editor. Tkinter 
 
 Tkinter is lightweight, easy to use, and a great choice for quickly building functional cross-platform GUI applications in Python. Explore the widgets and start creating your own interactive experiences with Tkinter.
 
-## Imports
+# Imports
 
 random, tkinter
 
