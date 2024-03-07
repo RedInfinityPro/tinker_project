@@ -7,7 +7,7 @@ The code creates a Python GUI application using Tkinter, allowing users to input
 - [About](#about)
 - [Features](#features)
 - [Imports](#Imports)
-- [Ratting: 7/10](#Ratting)
+- [Ratting: 6/10](#Ratting)
 
 ## About
 
