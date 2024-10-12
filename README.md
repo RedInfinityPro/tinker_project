@@ -1,6 +1,8 @@
 # tinker_project
-
 The code creates a Python GUI application using Tkinter, allowing users to input text and receive responses randomly, showcasing an interactive storytelling experience.
+
+[![Static Badge](https://img.shields.io/badge/tkinter-pink)](https://pypi.org/project/tkinter/)
+[![Static Badge](https://img.shields.io/badge/random-gray)](https://pypi.org/project/random/)
 
 ## Table of Contents
 
